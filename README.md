@@ -1,2 +1,3 @@
-# OpenText_Temp
-Temporary file sharing with OpenText
+# OpenText Temp Files
+
+A repo to store files tempoarily for OpenText projects.
