@@ -8,5 +8,8 @@ A place to share assets with OpenText for the AI Readiness Quiz
 **08/01/2026**:
 - Fixed for style conflicts
 
-- **09/01/2026**:
+**09/01/2026**:
 - Score fix and typos
+
+**15/01/2026**:
+- Intro slide responsive fix
